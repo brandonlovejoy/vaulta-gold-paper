@@ -631,7 +631,7 @@ Key characteristics of the A token model include:
 - a circulating supply of roughly 76% of total supply,
 - a finite staking rewards pool established in 2024,
 - a consistent four-year halving cycle,
-- and approximately 960 days until the next halving.
+- less than 900 days to go until the next halving (as of early 2026)
 
 In an industry where many networks frequently revise their economic models, this predictability is unusual, and valuable.
 
