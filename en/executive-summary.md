@@ -82,3 +82,8 @@ Early success is often quiet. It accumulates through small integrations, repeat 
 If builders are shipping independently, infrastructure providers are investing with confidence, and external users are interacting with Vaulta-based systems for practical reasons, then the strategy is working.
 
 Momentum follows usefulness.
+
+---
+
+**For readers who would like more detail, the full Strategic Framework is available here:**  
+[Vaulta Strategic Framework (English)](https://github.com/brandonlovejoy/vaulta-gold-paper/blob/main/en/Vaulta-Strategic-Framework-en.md)
