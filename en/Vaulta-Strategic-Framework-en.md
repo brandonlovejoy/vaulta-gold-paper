@@ -325,35 +325,7 @@ For Vaulta, this suggests that:
 The role of tightening is to support **stability**.
 The role of adoption is to support **growth**.
 
-### 5.6 Avoiding a Narrative-Only Response
-
-It is also important to distinguish between narrative and adoption.
-
-Some ecosystems have attempted to recover primarily through:
-
-- rebranding,
-- new positioning,
-- or messaging shifts,
-
-without addressing core issues in:
-
-- developer experience,
-- governance clarity,
-- real-world use cases.
-
-In these situations, narrative alone did not produce lasting improvement.
-
-Narrative becomes powerful when it reflects:
-
-- genuine builder success,
-- real-world integrations,
-- and measurable utility.
-
-In that sense:
-
-**Adoption comes first. Narrative follows from it.**
-
-### 5.7 Implications for Vaulta
+### 5.6 Implications for Vaulta
 
 For Vaulta, this analysis leads to a balanced perspective:
 
